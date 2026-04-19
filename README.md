@@ -26,7 +26,7 @@ A highly modular two-tier compression architecture designed to run large-scale c
 
 ---
 
-## 🏛 Architecture
+##  Architecture
 
 ### The Frontend (Vite + React + Tailwind)
 We broke from generic frameworks to embrace a highly functional, pure `React` engine.
@@ -42,7 +42,7 @@ We broke from generic frameworks to embrace a highly functional, pure `React` en
 
 ---
 
-## ⚙️ Stack & Frameworks
+##  Stack & Frameworks
 
 | Layer | Framework/Tech | Usage |
 |-------|----------------|-------|
@@ -55,7 +55,7 @@ We broke from generic frameworks to embrace a highly functional, pure `React` en
 
 ---
 
-## 🛠 Complete Setup Guide
+##  Complete Setup Guide
 
 ### 1. Repository Initialization
 Clone the repository:
@@ -94,7 +94,7 @@ Upon loading, the WASM engine allocates 100,000 particle limits for the Spline r
 
 ---
 
-## 🚀 Evaluation
+##  Evaluation
 Run the automated benchmarking scripts for your presentation phase.
 ```bash
 python -m backend.evaluation.benchmark --mode both
